@@ -14,7 +14,7 @@ Where function meets form.
   <a href="https://discord.gg/p8GcbBH5MR"><img src="https://img.shields.io/discord/1450777325267456097?style=for-the-badge&color=00baaa&labelColor=161616&logo=discord&logoColor=white"></a>
 </p>
 
-oxide for [kitty](https://sw.kovidgoyal.net/kitty/).
+oxide colorscheme for [kitty](https://sw.kovidgoyal.net/kitty/).
 
 ## Installation
 
@@ -22,7 +22,7 @@ oxide for [kitty](https://sw.kovidgoyal.net/kitty/).
 2. Copy it to your kitty themes directory: `~/.config/kitty/themes/`
 3. Set the theme in your kitty configuration (`~/.config/kitty/kitty.conf`):
 
-```
+```text
 include themes/oxide.conf
 ```
 
